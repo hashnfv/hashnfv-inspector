@@ -1,0 +1,21 @@
+Project: Audit enabling for critical components (inspector)
+Project Creation Date:
+Project Category: Requirement
+Lifecycle State:
+Primary Contact: juan.osorio.robles@ericsson.com
+Project Lead: juan.osorio.robles@ericsson.com
+Jira Project Name: Inspector
+Jira Project Prefix: INSPECTOR
+Mailing list tag: [Inspector]
+IRC: #opnfv-inspector
+Repository: genesis
+
+Committers:
+juan.osorio.robles@ericsson.com
+ari.pietikainen@ericsson.com
+makan.pourzandi@ericsson.com
+myoung@wildernessvoice.com
+luigi.liuqiming@huawei.com
+
+Link to TSC approval of the project: http://meetbot.opnfv.org/meetings/opnfv-meeting/2015/?
+Link(s) to approval of additional committers:
